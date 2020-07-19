@@ -11,9 +11,6 @@ once a record has been added to the chain it is very difficult to change.
 Ans:-
 Authenticity and security issues related to internet network can also be solved using the block chain. Mainly it is trying to solve InteInternational Banking Crisis that occurred in 2008, and it's trying to eradicate the middle man trend and its main agenda is to build trust among communities.
 
-2.what is the core problem block chain trying to solve?
-Ans:-Authenticity and security issues related to internet network can also be solved using the block chain. Mainly it is trying to solve InteInternational Banking Crisis that occurred in 2008, and it's trying to eradicate the middle man trend and its main agenda is to build trust among communities.
-
 3. What are the few features which block chai will give you?
 Ans: -
 a)Verifiable.
